@@ -1,0 +1,21 @@
+{
+  "name": "learngithub",
+  "version": "1.0.0",
+  "description": "we will learn about git and node",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "play": "echo \"play around and type more write less emmei :) \"",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emmeiwhite/learngithub.git"
+  },
+  "author": "Imran Rafiq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emmeiwhite/learngithub/issues"
+  },
+  "homepage": "https://github.com/emmeiwhite/learngithub#readme"
+}
